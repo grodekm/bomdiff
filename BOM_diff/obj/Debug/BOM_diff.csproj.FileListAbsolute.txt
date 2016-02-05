@@ -1,0 +1,10 @@
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\bin\Debug\BOM_diff.exe.config
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\bin\Debug\BOM_diff.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\bin\Debug\BOM_diff.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.csprojResolveAssemblyReference.cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.Form1.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.Properties.Resources.resources
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.csproj.GenerateResource.Cache
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.exe
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.pdb
+C:\Users\Mariusz\Documents\Visual Studio 2015\Projects\BOM_diff\BOM_diff\obj\Debug\BOM_diff.HelpDialog.resources
